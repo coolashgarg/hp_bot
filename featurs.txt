@@ -1,3 +1,9 @@
 Feedback.
 Bot-handoff.
-translator
+translator.
+
+
+
+
+
+thankyou
