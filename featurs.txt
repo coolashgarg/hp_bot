@@ -2,6 +2,8 @@ Feedback.
 Bot-handoff.
 translator.
 
+Outlook.
+Calendar.
 
 
 
